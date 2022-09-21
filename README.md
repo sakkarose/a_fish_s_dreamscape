@@ -5,6 +5,11 @@
 
 ![Nijunana](/SPRITE/Template.png)
 
-v0.1 (Beta)
+v0.01 (Beta)
 - Debug room, basic effects.
 - Making BGM, Backgrounds.
+
+
+v0.011 (Beta)
+- Main character's first sprite.
+- First two BGM.
