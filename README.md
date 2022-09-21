@@ -2,7 +2,8 @@
 
 - Engine used : RPGM2003
 - Main Character : Nijunana (27)
-[[a_fish_s_dreamscape/SPRITE/Template.png|Nijunana]]
+
+![Nijunana](/SPRITE/Template.png)
 
 v0.1 (Beta)
 - Debug room, basic effects.
