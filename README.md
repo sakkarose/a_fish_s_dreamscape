@@ -12,4 +12,10 @@ v0.01 (Beta)
 
 v0.011 (Beta)
 - Main character's first sprite.
-- First two BGM.
+- Raw BGM (Some aren't loopable).
+
+# To-do
+- Find all unloopable bgm, fill in list below.
+- Tryna fix unloopable bgm list
+-- All bgm17
+-- 
