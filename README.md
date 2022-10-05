@@ -3,8 +3,6 @@
 - Engine used : RPGM2003
 - Main Character : Nijunana (27)
 
-![Nijunana](/SPRITE/Nijunana_Front.png)
-
 v0.01 (Beta)
 - Debug room, basic effects.
 - Making BGM, Backgrounds.
