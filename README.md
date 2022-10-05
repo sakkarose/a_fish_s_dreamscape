@@ -8,12 +8,10 @@ v0.01 (Beta)
 - Making BGM, Backgrounds.
 
 
-v0.011 (Beta)
-- Main character's first sprite.
-- Raw BGM (Some aren't loopable).
+v0.02 (Beta)
+- Main character's sprite and walking animation.
+- 20 BGM tracks.
 
 # To-do
-- Find all unloopable bgm, fill in list below.
-- Tryna fix unloopable bgm list
--- All bgm17
--- 
+- Unloopable bgm to unused folder.
+- Tryna fix unloopable bgm list.
